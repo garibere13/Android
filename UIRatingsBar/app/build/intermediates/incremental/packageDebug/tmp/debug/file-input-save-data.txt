@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Feb 20 09:37:35 CET 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\PC\\Desktop\\Android\\UIRatingsBar\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

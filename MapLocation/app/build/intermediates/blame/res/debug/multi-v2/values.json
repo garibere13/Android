@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PC\\Desktop\\Android\\MapLocation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\Desktop\\Android\\MapLocation\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "111,57",
+                        "endColumns": "58,52",
+                        "endOffsets": "165,105"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,52",
+                        "endOffsets": "109,162"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_menu.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\menu\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\menu_title_menu.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\menu\\title_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\menu_quote_menu.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\menu\\quote_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\layout_detail_fragment.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\layout\\detail_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\layout\\list_item.xml"
+    }
+]

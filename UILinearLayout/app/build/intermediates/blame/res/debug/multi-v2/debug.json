@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PC\\Desktop\\Android\\UILinearLayout\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\Desktop\\Android\\UILinearLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,5,4,3,10,7,9,8,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,202,154,110,458,298,402,350,248",
+                        "endColumns": "51,44,46,42,53,50,54,50,48",
+                        "endOffsets": "104,242,196,148,507,344,452,396,292"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,152,199,242,296,347,402,453",
+                        "endColumns": "51,44,46,42,53,50,54,50,48",
+                        "endOffsets": "102,147,194,237,291,342,397,448,497"
+                    }
+                }
+            ]
+        }
+    ]
+}

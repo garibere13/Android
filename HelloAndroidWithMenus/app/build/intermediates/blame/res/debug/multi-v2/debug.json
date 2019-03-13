@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PC\\Desktop\\Android\\HelloAndroidWithMenus\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\Desktop\\Android\\HelloAndroidWithMenus\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,6,8,7,9,4,5",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "59,203,310,254,370,119,158",
+                        "endColumns": "58,49,58,54,56,37,43",
+                        "endOffsets": "113,248,364,304,422,152,197"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,164,223,278,335,373",
+                        "endColumns": "58,49,58,54,56,37,43",
+                        "endOffsets": "109,159,218,273,330,368,412"
+                    }
+                }
+            ]
+        }
+    ]
+}

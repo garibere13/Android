@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PC\\Desktop\\Android\\UISpinner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\Desktop\\Android\\UISpinner\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,57,357",
+                        "endLines": "11,2,12",
+                        "endColumns": "19,46,65",
+                        "endOffsets": "351,99,418"
+                    },
+                    "to": {
+                        "startLines": "2,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,298,345",
+                        "endLines": "10,11,12",
+                        "endColumns": "19,46,65",
+                        "endOffsets": "293,340,406"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Wed Jan 16 10:50:13 CET 2019
+base.0=C\:\\Users\\PC\\Desktop\\Android\\UITimePicker\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

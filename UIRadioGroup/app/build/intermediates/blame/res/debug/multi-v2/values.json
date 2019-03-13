@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PC\\Desktop\\Android\\UIRadioGroup\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\Desktop\\Android\\UIRadioGroup\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,5,6,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "57,174,228,282,108",
+                        "endColumns": "49,52,52,52,64",
+                        "endOffsets": "102,222,276,330,168"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,158,211,264",
+                        "endColumns": "49,52,52,52,64",
+                        "endOffsets": "100,153,206,259,324"
+                    }
+                }
+            ]
+        }
+    ]
+}

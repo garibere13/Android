@@ -1,0 +1,4 @@
+#Tue Jan 22 14:17:54 CET 2019
+base.0=C\:\\Users\\PC\\Desktop\\Android\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

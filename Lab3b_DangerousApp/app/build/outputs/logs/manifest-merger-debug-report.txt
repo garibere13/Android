@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+permission#course.labs.permissions.DANGEROUS_ACTIVITY_PERM
+ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:15:5-17:18
+	android:protectionLevel
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:15:17-79
+application
+ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:19:5-48:19
+	android:label
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:21:9-45
+	android:allowBackup
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:23:9-40
+activity#course.labs.dangerousapp.DangerousActivity
+ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:27:9-47:20
+	android:label
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:29:13-45
+	android:permission
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:30:13-81
+	android:name
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:28:13-46
+intent-filter#action:name:course.labs.permissions.DANGEROUS_ACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:37:13-40:29
+action#course.labs.permissions.DANGEROUS_ACTIVITY
+ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:38:17-84
+	android:name
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:38:25-82
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:39:27-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from C:\Users\PC\Desktop\Android\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:45:27-74

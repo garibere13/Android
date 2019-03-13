@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PC\\Desktop\\Android\\UIListView\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\Desktop\\Android\\UIListView\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "110,59",
+                        "endLines": "26,3",
+                        "endColumns": "19,47",
+                        "endOffsets": "719,102"
+                    },
+                    "to": {
+                        "startLines": "2,24",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,648",
+                        "endLines": "23,24",
+                        "endColumns": "19,47",
+                        "endOffsets": "643,691"
+                    }
+                }
+            ]
+        }
+    ]
+}

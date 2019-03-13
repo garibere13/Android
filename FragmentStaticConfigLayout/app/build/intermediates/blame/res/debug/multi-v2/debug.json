@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PC\\Desktop\\Android\\FragmentStaticConfigLayout\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\Desktop\\Android\\FragmentStaticConfigLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "8,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "308,122,57",
+                        "endLines": "12,7,2",
+                        "endColumns": "19,19,63",
+                        "endOffsets": "757,302,116"
+                    },
+                    "to": {
+                        "startLines": "2,7,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,505,686",
+                        "endLines": "6,11,12",
+                        "endColumns": "19,19,63",
+                        "endOffsets": "500,681,745"
+                    }
+                }
+            ]
+        }
+    ]
+}

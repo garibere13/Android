@@ -1,0 +1,4 @@
+#Tue Jan 22 14:52:11 CET 2019
+base.0=C\:\\Users\\PC\\Desktop\\Android\\NotificationToastWithCustomView\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

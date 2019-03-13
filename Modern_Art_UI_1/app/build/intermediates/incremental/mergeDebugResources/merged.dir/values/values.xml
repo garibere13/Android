@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_more_info">More Information</string>
+    <string name="app_name">Modern Art UI</string>
+    <string name="dialog_description">Inspired by the works of artists such as Piet Mondrian and Ben Nicholson.</string>
+    <string name="dialog_question">Click below to learn more!</string>
+    <string name="not_now">Not Now</string>
+    <string name="visit_moma">Visit MOMA</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PC\\Desktop\\Android\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\Desktop\\Android\\Lab7_GraphicsLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,6,5,4,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "57,309,237,165,107",
+                        "endColumns": "48,44,70,70,56",
+                        "endOffsets": "101,349,303,231,159"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,149,220,291",
+                        "endColumns": "48,44,70,70,56",
+                        "endOffsets": "99,144,215,286,343"
+                    }
+                }
+            ]
+        }
+    ]
+}

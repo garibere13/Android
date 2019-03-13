@@ -1,0 +1,4 @@
+#Mon Jan 21 14:08:14 CET 2019
+base.0=C\:\\Users\\PC\\Desktop\\Android\\ThreadingHandlerMessages\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

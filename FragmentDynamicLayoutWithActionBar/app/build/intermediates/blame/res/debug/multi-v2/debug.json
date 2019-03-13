@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\Desktop\\Android\\FragmentDynamicLayoutWithActionBar\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "16,11,4,3,6,5,7",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "559,373,132,59,255,190,307",
+                        "endLines": "20,15,4,3,6,5,7",
+                        "endColumns": "19,19,56,71,50,63,50",
+                        "endOffsets": "1008,553,184,126,301,249,353"
+                    },
+                    "to": {
+                        "startLines": "2,7,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,505,686,743,815,866,930",
+                        "endLines": "6,11,12,13,14,15,16",
+                        "endColumns": "19,19,56,71,50,63,50",
+                        "endOffsets": "500,681,738,810,861,925,976"
+                    }
+                }
+            ]
+        }
+    ]
+}

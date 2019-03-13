@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PC\\Desktop\\Android\\UITableLayout\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\Desktop\\Android\\UITableLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,12,4,6,8,11,10,3,13,7,5,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,590,162,265,374,533,476,109,640,315,212,436",
+                        "endColumns": "50,48,48,48,60,55,55,51,44,57,51,38",
+                        "endOffsets": "103,634,206,309,430,584,527,156,680,368,259,470"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,155,204,253,314,364,414,460,505,557,603",
+                        "endColumns": "50,48,48,48,60,49,49,45,44,51,45,38",
+                        "endOffsets": "101,150,199,248,309,359,409,455,500,552,598,637"
+                    }
+                }
+            ]
+        }
+    ]
+}

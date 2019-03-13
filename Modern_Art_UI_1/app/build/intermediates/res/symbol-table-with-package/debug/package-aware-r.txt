@@ -1,0 +1,26 @@
+com.brus.modernartui
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+drawable ic_launcher
+id action_more_info
+id button1Left
+id button1Right
+id button2Left
+id button2Right
+id button3Right
+id changeColor
+id dialog_description
+id dialog_question
+id not_now
+id visit_moma
+layout activity_main
+layout dialog
+menu main
+string action_more_info
+string app_name
+string dialog_description
+string dialog_question
+string not_now
+string visit_moma
+style AppBaseTheme
+style AppTheme

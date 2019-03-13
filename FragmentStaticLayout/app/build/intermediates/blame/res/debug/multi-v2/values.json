@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PC\\Desktop\\Android\\FragmentStaticLayout\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PC\\Desktop\\Android\\FragmentStaticLayout\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "8,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "302,116,57",
+                        "endLines": "12,7,2",
+                        "endColumns": "19,19,57",
+                        "endOffsets": "751,296,110"
+                    },
+                    "to": {
+                        "startLines": "2,7,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,505,686",
+                        "endLines": "6,11,12",
+                        "endColumns": "19,19,57",
+                        "endOffsets": "500,681,739"
+                    }
+                }
+            ]
+        }
+    ]
+}
